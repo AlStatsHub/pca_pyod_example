@@ -231,6 +231,8 @@ plt.show()
 
 # In[ ]:
 
-
-
+output:
+Explained variance ratio for PCA [0.96331924 0.03668076]
+Explained variance ratio for P [0.5063987 0.4936013]
+Explained variance ratio for P [0.634675 0.365325]
 
